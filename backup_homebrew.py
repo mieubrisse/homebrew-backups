@@ -84,6 +84,7 @@ def main(argv):
 
         if subprocess.call(git_cmd + ["diff", "--quiet", output_filepath]) == 1:
             git_commands = [
+                    ["pull"],
                     ["add", output_filepath], 
                     ["commit", "-m", commit_msg], 
                     ["push"],
