@@ -1,15 +1,87 @@
 {
     "brews": {
+        "bash": {
+            "options": [],
+            "versions": [
+                "4.4.19"
+            ]
+        },
+        "bash-completion": {
+            "options": [],
+            "versions": [
+                "1.3_3"
+            ]
+        },
+        "colordiff": {
+            "options": [],
+            "versions": [
+                "1.0.18"
+            ]
+        },
+        "coreutils": {
+            "options": [],
+            "versions": [
+                "8.29"
+            ]
+        },
+        "diff-so-fancy": {
+            "options": [],
+            "versions": [
+                "1.2.0"
+            ]
+        },
         "git": {
             "options": [],
             "versions": [
                 "2.16.2"
             ]
         },
+        "git-flow": {
+            "options": [],
+            "versions": [
+                "0.4.1"
+            ]
+        },
+        "gradle": {
+            "options": [],
+            "versions": [
+                "4.6"
+            ]
+        },
+        "jenv": {
+            "options": [],
+            "versions": [
+                "0.4.4"
+            ]
+        },
+        "jq": {
+            "options": [],
+            "versions": [
+                "1.5_2"
+            ]
+        },
         "less": {
             "options": [],
             "versions": [
                 "530"
+            ]
+        },
+        "netcat": {
+            "options": [],
+            "versions": [
+                "0.7.1"
+            ]
+        },
+        "nmap": {
+            "options": [],
+            "versions": [
+                "7.60"
+            ]
+        },
+        "pyenv-virtualenv": {
+            "options": [],
+            "versions": [
+                "1.1.1"
             ]
         },
         "ssh-copy-id": {
@@ -26,13 +98,21 @@
         }
     },
     "casks": [
+        "alfred",
+        "bartender",
+        "disk-inventory-x",
         "dropbox",
         "evernote",
+        "firefox",
         "flux",
         "google-backup-and-sync",
         "google-chrome",
         "iterm2",
-        "karabiner-elements"
+        "java",
+        "karabiner-elements",
+        "skype",
+        "spectacle",
+        "spotify"
     ],
     "taps": [
         "caskroom/cask",
