@@ -6,6 +6,18 @@
                 "2.16.2"
             ]
         },
+        "less": {
+            "options": [],
+            "versions": [
+                "530"
+            ]
+        },
+        "ssh-copy-id": {
+            "options": [],
+            "versions": [
+                "7.6p1"
+            ]
+        },
         "vim": {
             "options": [],
             "versions": [
