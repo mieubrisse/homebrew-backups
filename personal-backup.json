@@ -1,0 +1,23 @@
+{
+    "brews": {
+        "git": {
+            "options": [], 
+            "versions": [
+                "2.16.2"
+            ]
+        }
+    }, 
+    "casks": [
+        "dropbox", 
+        "evernote", 
+        "flux", 
+        "google-backup-and-sync", 
+        "google-chrome", 
+        "iterm2", 
+        "karabiner-elements"
+    ], 
+    "taps": [
+        "caskroom/cask", 
+        "homebrew/core"
+    ]
+}
