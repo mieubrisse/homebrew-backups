@@ -1,23 +1,29 @@
 {
     "brews": {
         "git": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "2.16.2"
             ]
+        },
+        "vim": {
+            "options": [],
+            "versions": [
+                "8.0.1553_1"
+            ]
         }
-    }, 
+    },
     "casks": [
-        "dropbox", 
-        "evernote", 
-        "flux", 
-        "google-backup-and-sync", 
-        "google-chrome", 
-        "iterm2", 
+        "dropbox",
+        "evernote",
+        "flux",
+        "google-backup-and-sync",
+        "google-chrome",
+        "iterm2",
         "karabiner-elements"
-    ], 
+    ],
     "taps": [
-        "caskroom/cask", 
+        "caskroom/cask",
         "homebrew/core"
     ]
 }
