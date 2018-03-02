@@ -65,6 +65,10 @@ def main(argv):
         _print_error("No homebrew found")
         return 1
 
+    if subprocess.call([_BREW_CMD, "update"]) != 0:
+        _print_error("'brew update' failed")
+        return 1
+
     return_obj = {}
     brews = _get_brews()
     return_obj["brews"] = brews
