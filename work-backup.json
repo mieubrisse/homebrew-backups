@@ -171,12 +171,6 @@
                 "1.19.2"
             ]
         }, 
-        "xz": {
-            "options": [], 
-            "versions": [
-                "5.2.3"
-            ]
-        }, 
         "yarn": {
             "options": [], 
             "versions": [
