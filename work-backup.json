@@ -103,12 +103,6 @@
                 "487"
             ]
         }, 
-        "liblwgeom": {
-            "options": [], 
-            "versions": [
-                "2.1.5_3"
-            ]
-        }, 
         "netcat": {
             "options": [], 
             "versions": [
@@ -119,13 +113,6 @@
             "options": [], 
             "versions": [
                 "7.60"
-            ]
-        }, 
-        "openssl@1.1": {
-            "options": [], 
-            "versions": [
-                "1.1.0f", 
-                "1.1.0g"
             ]
         }, 
         "postgis": {
@@ -169,6 +156,12 @@
             "versions": [
                 "1.19.1_1", 
                 "1.19.2"
+            ]
+        }, 
+        "xz": {
+            "options": [], 
+            "versions": [
+                "5.2.3"
             ]
         }, 
         "yarn": {
