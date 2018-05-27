@@ -193,8 +193,8 @@
         "wireshark"
     ], 
     "taps": [
-        "caskroom/cask", 
-        "caskroom/versions", 
+        "homebrew/cask", 
+        "homebrew/cask-versions", 
         "homebrew/core", 
         "homebrew/services"
     ]
