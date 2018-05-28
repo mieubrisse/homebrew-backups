@@ -115,7 +115,7 @@
         "spotify"
     ],
     "taps": [
-        "caskroom/cask",
+        "homebrew/cask",
         "homebrew/core"
     ]
 }
