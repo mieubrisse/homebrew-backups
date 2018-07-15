@@ -115,6 +115,12 @@
                 "7.60"
             ]
         }, 
+        "node": {
+            "options": [], 
+            "versions": [
+                "10.6.0"
+            ]
+        }, 
         "postgis": {
             "options": [], 
             "versions": [
@@ -162,12 +168,6 @@
             "options": [], 
             "versions": [
                 "5.2.3"
-            ]
-        }, 
-        "yarn": {
-            "options": [], 
-            "versions": [
-                "1.1.0"
             ]
         }
     }, 
