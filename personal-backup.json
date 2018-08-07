@@ -45,7 +45,8 @@
         "gradle": {
             "options": [],
             "versions": [
-                "4.6"
+                "4.6",
+                "4.9"
             ]
         },
         "jenv": {
