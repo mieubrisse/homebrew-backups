@@ -193,11 +193,6 @@
         "wireshark"
     ], 
     "taps": [
-        "==> Auto-updated Homebrew!", 
-        "Updated 1 tap (homebrew/core).", 
-        "==> Updated Formulae", 
-        "geoipupdate", 
-        "", 
         "homebrew/cask", 
         "homebrew/cask-versions", 
         "homebrew/core", 
