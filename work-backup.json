@@ -145,6 +145,12 @@
                 "7.6p1"
             ]
         }, 
+        "telnet": {
+            "options": [], 
+            "versions": [
+                "54.50.1"
+            ]
+        }, 
         "tmux": {
             "options": [], 
             "versions": [
