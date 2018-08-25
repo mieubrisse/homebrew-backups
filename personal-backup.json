@@ -100,7 +100,6 @@
     },
     "casks": [
         "alfred",
-        "bartender",
         "disk-inventory-x",
         "dropbox",
         "evernote",
