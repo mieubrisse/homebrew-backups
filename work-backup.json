@@ -3,7 +3,8 @@
         "bash": {
             "options": [], 
             "versions": [
-                "4.4.12"
+                "4.4.12", 
+                "4.4.23"
             ]
         }, 
         "bash-completion": {
@@ -15,7 +16,8 @@
         "cask": {
             "options": [], 
             "versions": [
-                "0.8.1"
+                "0.8.1", 
+                "0.8.4"
             ]
         }, 
         "chromedriver": {
@@ -33,26 +35,30 @@
         "coreutils": {
             "options": [], 
             "versions": [
-                "8.28_1"
+                "8.28_1", 
+                "8.30"
             ]
         }, 
         "diff-so-fancy": {
             "options": [], 
             "versions": [
-                "1.1.1"
+                "1.1.1", 
+                "1.2.0"
             ]
         }, 
         "gcc": {
             "options": [], 
             "versions": [
-                "7.2.0"
+                "7.2.0", 
+                "8.2.0"
             ]
         }, 
         "git": {
             "options": [], 
             "versions": [
                 "2.14.2", 
-                "2.15.0"
+                "2.15.0", 
+                "2.18.0"
             ]
         }, 
         "git-flow": {
@@ -70,19 +76,22 @@
         "gnupg": {
             "options": [], 
             "versions": [
-                "2.2.2"
+                "2.2.2", 
+                "2.2.9"
             ]
         }, 
         "gradle": {
             "options": [], 
             "versions": [
-                "4.3.1"
+                "4.3.1", 
+                "4.9"
             ]
         }, 
         "groovy": {
             "options": [], 
             "versions": [
-                "2.4.12"
+                "2.4.12", 
+                "2.5.2"
             ]
         }, 
         "jenv": {
@@ -94,13 +103,22 @@
         "jq": {
             "options": [], 
             "versions": [
-                "1.5_2"
+                "1.5_2", 
+                "1.5_3"
             ]
         }, 
         "less": {
             "options": [], 
             "versions": [
-                "487"
+                "487", 
+                "530"
+            ]
+        }, 
+        "liblwgeom": {
+            "options": [], 
+            "versions": [
+                "2.1.5_3", 
+                "2.4.4_1"
             ]
         }, 
         "netcat": {
@@ -112,37 +130,51 @@
         "nmap": {
             "options": [], 
             "versions": [
-                "7.60"
+                "7.60", 
+                "7.70"
             ]
         }, 
         "node": {
             "options": [], 
             "versions": [
-                "10.6.0"
+                "10.6.0", 
+                "10.9.0"
+            ]
+        }, 
+        "openssl@1.1": {
+            "options": [], 
+            "versions": [
+                "1.1.0f", 
+                "1.1.0g", 
+                "1.1.0i"
             ]
         }, 
         "postgis": {
             "options": [], 
             "versions": [
-                "2.3.2"
+                "2.3.2", 
+                "2.4.4_1"
             ]
         }, 
         "pyenv-virtualenv": {
             "options": [], 
             "versions": [
-                "1.1.1"
+                "1.1.1", 
+                "1.1.3"
             ]
         }, 
         "rabbitmq": {
             "options": [], 
             "versions": [
-                "3.6.14"
+                "3.6.14", 
+                "3.7.7_1"
             ]
         }, 
         "ssh-copy-id": {
             "options": [], 
             "versions": [
-                "7.6p1"
+                "7.6p1", 
+                "7.8p1"
             ]
         }, 
         "telnet": {
@@ -154,26 +186,23 @@
         "tmux": {
             "options": [], 
             "versions": [
-                "2.6"
+                "2.6", 
+                "2.7"
             ]
         }, 
         "vim": {
             "options": [], 
             "versions": [
-                "8.0.1300"
+                "8.0.1300", 
+                "8.1.0300"
             ]
         }, 
         "wget": {
             "options": [], 
             "versions": [
                 "1.19.1_1", 
-                "1.19.2"
-            ]
-        }, 
-        "xz": {
-            "options": [], 
-            "versions": [
-                "5.2.3"
+                "1.19.2", 
+                "1.19.5"
             ]
         }
     }, 
