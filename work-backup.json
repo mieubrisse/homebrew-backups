@@ -228,6 +228,13 @@
         "wireshark"
     ], 
     "taps": [
+        "==> Auto-updated Homebrew!", 
+        "Updated 2 taps (homebrew/core and homebrew/cask).", 
+        "==> Updated Formulae", 
+        "mapserver", 
+        "==> Deleted Formulae", 
+        "corebird", 
+        "", 
         "homebrew/cask", 
         "homebrew/cask-versions", 
         "homebrew/core", 
