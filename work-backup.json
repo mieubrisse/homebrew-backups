@@ -228,6 +228,17 @@
         "wireshark"
     ], 
     "taps": [
+        "==> Auto-updated Homebrew!", 
+        "Updated 1 tap (homebrew/core).", 
+        "==> Updated Formulae", 
+        "elasticsearch", 
+        "gradio", 
+        "gwyddion", 
+        "hapi-fhir-cli", 
+        "jenkins", 
+        "juju", 
+        "openapi-generator", 
+        "", 
         "homebrew/cask", 
         "homebrew/cask-versions", 
         "homebrew/core", 
