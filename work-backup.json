@@ -228,10 +228,6 @@
         "wireshark"
     ], 
     "taps": [
-        "==> Auto-updated Homebrew!", 
-        "Updated 1 tap (homebrew/cask).", 
-        "No changes to formulae.", 
-        "", 
         "homebrew/cask", 
         "homebrew/cask-versions", 
         "homebrew/core", 
