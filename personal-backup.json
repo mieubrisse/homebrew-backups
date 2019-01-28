@@ -116,10 +116,6 @@
         "spotify"
     ],
     "taps": [
-        "==> Auto-updated Homebrew!",
-        "Updated 1 tap (homebrew/cask).",
-        "No changes to formulae.",
-        "",
         "homebrew/cask",
         "homebrew/core"
     ]
