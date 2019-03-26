@@ -208,6 +208,7 @@
     }, 
     "casks": [
         "alfred", 
+        "anki", 
         "bartender", 
         "disk-inventory-x", 
         "dropbox", 
