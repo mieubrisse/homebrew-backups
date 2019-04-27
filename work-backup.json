@@ -226,7 +226,8 @@
         "spectacle", 
         "spotify", 
         "vlc", 
-        "wireshark"
+        "wireshark", 
+        "yourkit-java-profiler"
     ], 
     "taps": [
         "greymd/tools", 
