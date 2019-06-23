@@ -114,7 +114,8 @@
         "kindle",
         "skype",
         "spectacle",
-        "spotify"
+        "spotify",
+        "vlc"
     ],
     "taps": [
         "homebrew/cask",
