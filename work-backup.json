@@ -145,14 +145,6 @@
                 "0.34.0"
             ]
         }, 
-        "openssl@1.1": {
-            "options": [], 
-            "versions": [
-                "1.1.0f", 
-                "1.1.0g", 
-                "1.1.0i"
-            ]
-        }, 
         "postgis": {
             "options": [], 
             "versions": [
