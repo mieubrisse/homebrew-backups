@@ -91,6 +91,12 @@
                 "7.6p1"
             ]
         },
+        "telnet": {
+            "options": [],
+            "versions": [
+                "60"
+            ]
+        },
         "vim": {
             "options": [],
             "versions": [
