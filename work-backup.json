@@ -6,12 +6,6 @@
                 "5.0.16"
             ]
         }, 
-        "bash-completion": {
-            "options": [], 
-            "versions": [
-                "1.3_3"
-            ]
-        }, 
         "cask": {
             "options": [], 
             "versions": [
@@ -218,6 +212,7 @@
         "slack", 
         "spectacle", 
         "spotify", 
+        "tastyworks", 
         "vlc", 
         "wireshark", 
         "yourkit-java-profiler"
