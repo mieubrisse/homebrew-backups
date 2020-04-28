@@ -114,6 +114,12 @@
                 "1.6"
             ]
         }, 
+        "nvm": {
+            "options": [], 
+            "versions": [
+                "0.35.3"
+            ]
+        }, 
         "pinentry": {
             "options": [], 
             "versions": [
