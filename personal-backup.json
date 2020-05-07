@@ -54,6 +54,12 @@
                 "3.6.12"
             ]
         }, 
+        "go@1.13": {
+            "options": [], 
+            "versions": [
+                "1.13.10_1"
+            ]
+        }, 
         "gradle": {
             "options": [], 
             "versions": [
