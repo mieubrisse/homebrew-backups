@@ -18,6 +18,12 @@
                 "1.3_3"
             ]
         }, 
+        "cmake": {
+            "options": [], 
+            "versions": [
+                "3.17.2"
+            ]
+        }, 
         "colordiff": {
             "options": [], 
             "versions": [
@@ -28,6 +34,12 @@
             "options": [], 
             "versions": [
                 "8.29"
+            ]
+        }, 
+        "determinant/salticidae/salticidae": {
+            "options": [], 
+            "versions": [
+                "0.3.1"
             ]
         }, 
         "diff-so-fancy": {
@@ -102,6 +114,12 @@
                 "1.0.23"
             ]
         }, 
+        "make": {
+            "options": [], 
+            "versions": [
+                "4.3"
+            ]
+        }, 
         "netcat": {
             "options": [], 
             "versions": [
@@ -174,6 +192,7 @@
         "vlc"
     ], 
     "taps": [
+        "determinant/salticidae", 
         "homebrew/bundle", 
         "homebrew/cask", 
         "homebrew/core"
