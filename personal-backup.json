@@ -1,11 +1,5 @@
 {
     "brews": {
-        "adns": {
-            "options": [], 
-            "versions": [
-                "1.5.1"
-            ]
-        }, 
         "bash": {
             "options": [], 
             "versions": [
@@ -60,12 +54,6 @@
                 "0.4.1"
             ]
         }, 
-        "gnutls": {
-            "options": [], 
-            "versions": [
-                "3.6.12"
-            ]
-        }, 
         "go@1.13": {
             "options": [], 
             "versions": [
@@ -96,24 +84,6 @@
                 "530"
             ]
         }, 
-        "libgcrypt": {
-            "options": [], 
-            "versions": [
-                "1.8.5"
-            ]
-        }, 
-        "libksba": {
-            "options": [], 
-            "versions": [
-                "1.3.5"
-            ]
-        }, 
-        "libusb": {
-            "options": [], 
-            "versions": [
-                "1.0.23"
-            ]
-        }, 
         "make": {
             "options": [], 
             "versions": [
@@ -132,22 +102,10 @@
                 "7.60"
             ]
         }, 
-        "npth": {
-            "options": [], 
-            "versions": [
-                "1.6"
-            ]
-        }, 
-        "pinentry": {
-            "options": [], 
-            "versions": [
-                "1.1.0_1"
-            ]
-        }, 
         "pyenv-virtualenv": {
             "options": [], 
             "versions": [
-                "1.1.1"
+                "1.1.5"
             ]
         }, 
         "ssh-copy-id": {
