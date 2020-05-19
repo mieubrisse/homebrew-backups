@@ -6,6 +6,12 @@
                 "5.0.16"
             ]
         }, 
+        "bash-completion": {
+            "options": [], 
+            "versions": [
+                "1.3_3"
+            ]
+        }, 
         "cask": {
             "options": [], 
             "versions": [
