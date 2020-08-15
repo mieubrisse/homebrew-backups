@@ -128,6 +128,7 @@
         }
     }, 
     "casks": [
+        "adobe-acrobat-reader", 
         "alfred", 
         "anki", 
         "disk-inventory-x", 
