@@ -27,7 +27,7 @@
         "colordiff": {
             "options": [], 
             "versions": [
-                "1.0.18"
+                "1.0.19"
             ]
         }, 
         "coreutils": {
@@ -39,8 +39,7 @@
         "diff-so-fancy": {
             "options": [], 
             "versions": [
-                "1.1.1", 
-                "1.2.0"
+                "1.3.0"
             ]
         }, 
         "erlang": {
@@ -52,7 +51,7 @@
         "git": {
             "options": [], 
             "versions": [
-                "2.26.0"
+                "2.28.0"
             ]
         }, 
         "git-flow": {
@@ -70,35 +69,37 @@
         "gnupg": {
             "options": [], 
             "versions": [
-                "2.2.2", 
-                "2.2.9"
+                "2.2.22"
             ]
         }, 
         "gradle": {
             "options": [], 
             "versions": [
-                "4.3.1", 
-                "4.9"
+                "6.6.1"
             ]
         }, 
         "groovy": {
             "options": [], 
             "versions": [
-                "2.4.12", 
-                "2.5.2"
+                "3.0.5"
+            ]
+        }, 
+        "inetutils": {
+            "options": [], 
+            "versions": [
+                "1.9.4_2"
             ]
         }, 
         "jenv": {
             "options": [], 
             "versions": [
-                "0.4.4"
+                "0.5.4"
             ]
         }, 
         "jq": {
             "options": [], 
             "versions": [
-                "1.5_2", 
-                "1.5_3"
+                "1.6"
             ]
         }, 
         "less": {
@@ -122,7 +123,7 @@
         "nmap": {
             "options": [], 
             "versions": [
-                "7.70"
+                "7.80_1"
             ]
         }, 
         "nvm": {
@@ -140,14 +141,19 @@
         "postgis": {
             "options": [], 
             "versions": [
-                "2.3.2", 
-                "2.4.4_1"
+                "3.0.2"
             ]
         }, 
         "pyenv-virtualenv": {
             "options": [], 
             "versions": [
-                "1.1.3"
+                "1.1.5"
+            ]
+        }, 
+        "python@2": {
+            "options": [], 
+            "versions": [
+                "2.7.15_1"
             ]
         }, 
         "ssh-copy-id": {
@@ -156,17 +162,10 @@
                 "8.3p1"
             ]
         }, 
-        "telnet": {
-            "options": [], 
-            "versions": [
-                "54.50.1"
-            ]
-        }, 
         "tmux": {
             "options": [], 
             "versions": [
-                "2.6", 
-                "2.7"
+                "3.1b"
             ]
         }, 
         "vim": {
