@@ -48,6 +48,12 @@
                 "23.0.3"
             ]
         }, 
+        "ffmpeg": {
+            "options": [], 
+            "versions": [
+                "4.3.1_1"
+            ]
+        }, 
         "git": {
             "options": [], 
             "versions": [
@@ -69,7 +75,7 @@
         "gnupg": {
             "options": [], 
             "versions": [
-                "2.2.22"
+                "2.2.23"
             ]
         }, 
         "gradle": {
