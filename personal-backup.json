@@ -151,7 +151,8 @@
         "spectacle", 
         "spotify", 
         "tastyworks", 
-        "vlc"
+        "vlc", 
+        "whatsapp"
     ], 
     "taps": [
         "determinant/salticidae", 
