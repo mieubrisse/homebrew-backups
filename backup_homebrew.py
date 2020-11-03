@@ -73,7 +73,7 @@ def main(argv):
     brews = _get_brews()
     return_obj["brews"] = brews
     return_obj["taps"] = subprocess.check_output([_BREW_CMD, "tap"]).decode(_UTF_8_DECODER).splitlines()
-    return_obj["casks"] = subprocess.check_output([_BREW_CMD, "cask", "list"]).decode(_UTF_8_DECODER).splitlines()
+    return_obj["casks"] = subprocess.check_output([_BREW_CMD, "list", "--cask"]).decode(_UTF_8_DECODER).splitlines()
 
     with open(output_filepath, 'w') as output_fp:
         json.dump(return_obj, output_fp, indent=4, sort_keys=True)
