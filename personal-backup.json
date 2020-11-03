@@ -1,163 +1,164 @@
 {
     "brews": {
         "bash": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "4.4.19"
             ]
-        }, 
+        },
         "bash-completion": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "1.3_3"
             ]
-        }, 
+        },
         "cmake": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "3.17.2"
             ]
-        }, 
+        },
         "colordiff": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "1.0.18"
             ]
-        }, 
+        },
         "coreutils": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "8.29"
             ]
-        }, 
+        },
         "determinant/salticidae/salticidae": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "0.3.1"
             ]
-        }, 
+        },
         "diff-so-fancy": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "1.2.0"
             ]
-        }, 
+        },
         "git": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "2.16.2"
             ]
-        }, 
+        },
         "git-flow": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "0.4.1"
             ]
-        }, 
+        },
         "go@1.13": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "1.13.10_1"
             ]
-        }, 
+        },
         "gradle": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "6.3"
             ]
-        }, 
+        },
         "jenv": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "0.4.4"
             ]
-        }, 
+        },
         "jq": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "1.5_2"
             ]
-        }, 
+        },
         "less": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "530"
             ]
-        }, 
+        },
         "make": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "4.3"
             ]
-        }, 
+        },
         "netcat": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "0.7.1"
             ]
-        }, 
+        },
         "nmap": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "7.60"
             ]
-        }, 
+        },
         "pyenv-virtualenv": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "1.1.5"
             ]
-        }, 
+        },
         "ssh-copy-id": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "7.6p1"
             ]
-        }, 
+        },
         "telnet": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "60"
             ]
-        }, 
+        },
         "vim": {
-            "options": [], 
+            "options": [],
             "versions": [
                 "8.2.0500"
             ]
         }
-    }, 
+    },
     "casks": [
-        "adobe-acrobat-reader", 
-        "alfred", 
-        "anki", 
-        "disk-inventory-x", 
-        "dozer", 
-        "dropbox", 
-        "evernote", 
-        "firefox", 
-        "flux", 
-        "goland", 
-        "google-backup-and-sync", 
-        "google-chrome", 
-        "intellij-idea", 
-        "iterm2", 
-        "java", 
-        "karabiner-elements", 
-        "kindle", 
-        "postman", 
-        "skype", 
-        "slack", 
-        "spectacle", 
-        "spotify", 
-        "tastyworks", 
-        "vlc", 
+        "adobe-acrobat-reader",
+        "alfred",
+        "anki",
+        "boxy-suite",
+        "disk-inventory-x",
+        "dozer",
+        "dropbox",
+        "evernote",
+        "firefox",
+        "flux",
+        "goland",
+        "google-backup-and-sync",
+        "google-chrome",
+        "intellij-idea",
+        "iterm2",
+        "java",
+        "karabiner-elements",
+        "kindle",
+        "postman",
+        "skype",
+        "slack",
+        "spectacle",
+        "spotify",
+        "tastyworks",
+        "vlc",
         "whatsapp"
-    ], 
+    ],
     "taps": [
-        "determinant/salticidae", 
-        "homebrew/bundle", 
-        "homebrew/cask", 
+        "determinant/salticidae",
+        "homebrew/bundle",
+        "homebrew/cask",
         "homebrew/core"
     ]
 }
