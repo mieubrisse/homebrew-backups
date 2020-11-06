@@ -102,6 +102,12 @@
                 "7.60"
             ]
         }, 
+        "nvm": {
+            "options": [], 
+            "versions": [
+                "0.36.0"
+            ]
+        }, 
         "pyenv-virtualenv": {
             "options": [], 
             "versions": [
