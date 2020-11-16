@@ -134,6 +134,7 @@
         }
     }, 
     "casks": [
+        "1password", 
         "adobe-acrobat-reader", 
         "alfred", 
         "anki", 
