@@ -138,6 +138,12 @@
                 "1.1.5"
             ]
         }, 
+        "solidity": {
+            "options": [], 
+            "versions": [
+                "0.8.4"
+            ]
+        }, 
         "ssh-copy-id": {
             "options": [], 
             "versions": [
@@ -192,6 +198,7 @@
     ], 
     "taps": [
         "determinant/salticidae", 
+        "ethereum/ethereum", 
         "homebrew/bundle", 
         "homebrew/cask", 
         "homebrew/cask-versions", 
