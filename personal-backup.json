@@ -12,10 +12,17 @@
                 "1.3_3"
             ]
         }, 
+        "ccache": {
+            "options": [], 
+            "versions": [
+                "4.2.1"
+            ]
+        }, 
         "cmake": {
             "options": [], 
             "versions": [
-                "3.17.2"
+                "3.17.2", 
+                "3.20.1"
             ]
         }, 
         "colordiff": {
@@ -40,6 +47,12 @@
             "options": [], 
             "versions": [
                 "1.2.0"
+            ]
+        }, 
+        "ethereum/ethereum/solidity@7": {
+            "options": [], 
+            "versions": [
+                "0.7.6"
             ]
         }, 
         "git": {
@@ -136,12 +149,6 @@
             "options": [], 
             "versions": [
                 "1.1.5"
-            ]
-        }, 
-        "solidity": {
-            "options": [], 
-            "versions": [
-                "0.8.4"
             ]
         }, 
         "ssh-copy-id": {
