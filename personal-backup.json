@@ -136,13 +136,13 @@
         "protoc-gen-go": {
             "options": [], 
             "versions": [
-                "1.4.3_1"
+                "1.26.0"
             ]
         }, 
         "protoc-gen-go-grpc": {
             "options": [], 
             "versions": [
-                "1.1.0"
+                "1.1.0_2"
             ]
         }, 
         "pyenv-virtualenv": {
