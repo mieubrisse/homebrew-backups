@@ -18,6 +18,12 @@
                 "4.2.1"
             ]
         }, 
+        "circleci": {
+            "options": [], 
+            "versions": [
+                "0.1.15848"
+            ]
+        }, 
         "cmake": {
             "options": [], 
             "versions": [
