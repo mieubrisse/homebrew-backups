@@ -85,6 +85,12 @@
                 "1.13.10_1"
             ]
         }, 
+        "goreleaser": {
+            "options": [], 
+            "versions": [
+                "0.176.0"
+            ]
+        }, 
         "gradle": {
             "options": [], 
             "versions": [
