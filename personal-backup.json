@@ -88,7 +88,7 @@
         "goreleaser": {
             "options": [], 
             "versions": [
-                "0.176.0"
+                "0.179.0"
             ]
         }, 
         "gradle": {
@@ -107,6 +107,12 @@
             "options": [], 
             "versions": [
                 "1.5_2"
+            ]
+        }, 
+        "kurtosis-tech/tap/cli": {
+            "options": [], 
+            "versions": [
+                "1.19.9"
             ]
         }, 
         "less": {
@@ -225,6 +231,7 @@
         "homebrew/bundle", 
         "homebrew/cask", 
         "homebrew/cask-versions", 
-        "homebrew/core"
+        "homebrew/core", 
+        "kurtosis-tech/tap"
     ]
 }
