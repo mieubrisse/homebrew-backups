@@ -3,7 +3,7 @@
         "bash": {
             "options": [], 
             "versions": [
-                "4.4.19"
+                "5.1.8"
             ]
         }, 
         "bash-completion": {
@@ -118,7 +118,7 @@
         "kurtosis-tech/tap/kurtosis": {
             "options": [], 
             "versions": [
-                "1.19.14"
+                "1.20.0"
             ]
         }, 
         "less": {
@@ -142,7 +142,7 @@
         "nmap": {
             "options": [], 
             "versions": [
-                "7.60"
+                "7.92"
             ]
         }, 
         "nvm": {
@@ -190,7 +190,7 @@
         "vim": {
             "options": [], 
             "versions": [
-                "8.2.0500"
+                "8.2.3450"
             ]
         }
     }, 
